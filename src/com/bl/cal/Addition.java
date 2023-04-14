@@ -3,6 +3,11 @@ package com.bl.cal;
 public class Addition {
     public static void main(String[] args) {
 
-        System.out.println("welcome message");
+        int a =10;
+        int b =5;
+        int c = a+b;
+
+        System.out.println("Addition :" + c);
+
     }
 }
